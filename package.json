@@ -1,0 +1,14 @@
+{
+    "name": "tobysite",
+    "version": "1.0.0",
+    "author": "toebean",
+    "description": "place for things",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "react": "^19.0.0",
+        "typescript": "^5.8.2"
+    }
+}
